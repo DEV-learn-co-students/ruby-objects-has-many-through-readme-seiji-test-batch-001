@@ -1,0 +1,1 @@
+# ruby-objects-has-many-through-readme-seiji-test-batch-001
